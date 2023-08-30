@@ -94,4 +94,4 @@ async def queue(interaction: nextcord.Interaction):
     else:
         await interaction.response.send_message("Queue is Empty!")
 
-bot.run("MTEyNzYzMjQzMzE5NDQ4Nzg0OQ.Gj2Z2P.C1yKix4URjL91CqK06hDJedjBD1XZQp3b2eky0")
+bot.run("insert_token")
